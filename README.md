@@ -76,6 +76,6 @@ python code/VQA.py --image_path assets/input_examples/test1.png --question "What
 Please see the assets/result_examples/ directory for sample outputs.
 
 ## Notes
-Different GPUs may produce different runtime speed.
-Smaller checkpoints may be more stable on local GPUs.
-For VQA, English questions are recommended for more stable outputs.
+1.Different GPUs may produce different runtime speed.
+2.Smaller checkpoints may be more stable on local GPUs.
+3.For VQA, English questions are recommended for more stable outputs.
