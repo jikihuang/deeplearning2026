@@ -1,7 +1,5 @@
 # deeplearning2026
 
-This repository contains a course midterm project based on three foundation models for image understanding.
-
 The project includes:
 - Open-vocabulary detection
 - Point-based segmentation
