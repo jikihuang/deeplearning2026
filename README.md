@@ -32,7 +32,7 @@ Visualization image
 Optional JSON file
 Optional masks
 
-python code/open_vocab_det.py --image_path assets/input_examples/test1.png --text_queries person,book --save_json --save_masks
+python code/open_vocab_det.py --image_path assets/input_examples/xai506_example_image.jpg --text_queries person,book --save_json --save_masks
 
 ## 2. seg.py
 Function
@@ -46,7 +46,7 @@ Output:
 Segmentation mask
 Overlay image
 
-python code/seg.py --image_path assets/input_examples/test1.png
+python code/seg.py --image_path assets/input_examples/xai506_example_image.jpg
 
 Left click: positive point
 Right click: negative point
@@ -69,7 +69,7 @@ Output:
 Model-generated text answer
 Optional JSON result
 
-python code/VQA.py --image_path assets/input_examples/test1.png --question "What objects are visible in this image?" --out_json assets/result_examples/vqa_result.json
+python code/VQA.py --image_path assets/input_examples/xai506_example_image.jpg --question "What objects are visible in this image?" --out_json assets/result_examples/vqa_result.json
 
 ## Example Results
 
