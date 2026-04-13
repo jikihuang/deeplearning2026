@@ -1,0 +1,6 @@
+{
+  "model": "Qwen/Qwen3-VL-4B-Instruct",
+  "image_path": "/workspace/hjk/deeplearning/xai506_example_image.jpg",
+  "question": "What do you see in this image? Please answer briefly.",
+  "answer": "A classroom with students seated at desks, many using laptops. There are projectors and an air conditioning unit on the ceiling. A clock is visible on the wall. The room has a tiled floor and white walls. Some students are looking at their screens, while others appear to be listening or thinking. A few drinks and personal items are on the desks."
+}
