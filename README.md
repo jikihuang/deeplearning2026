@@ -7,9 +7,9 @@ The project includes:
 
 ## Foundation Models
 
-- **Grounding DINO** for open-vocabulary detection
-- **SAM2** for point-based segmentation
-- **Qwen3-VL** for visual question answering
+- **Grounding DINO** for open-vocabulary detection （grounding-dino-base）
+- **SAM2** for point-based segmentation （sam2.1-hiera-small）
+- **Qwen3-VL** for visual question answering（Qwen/Qwen3-VL-4B-Instruct）
 
 ## Installation Guide
 It is recommended to use Python 3.10 or later.
