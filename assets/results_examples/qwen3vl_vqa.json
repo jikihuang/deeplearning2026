@@ -1,6 +1,0 @@
-{
-  "model": "Qwen/Qwen3-VL-4B-Instruct",
-  "image_path": "/workspace/hjk/deeplearning/test1.png",
-  "question": "What do you see in this image? Please answer briefly.",
-  "answer": "A group of people in a conference room, seated around a long table with laptops, notebooks, and drinks. They appear to be engaged in a meeting or workshop. The room has modern lighting and a whiteboard."
-}
